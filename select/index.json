@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "LA LA RUN!",
+  "base_artist": "ヒナ(CV:広橋涼)、セナ(CV:大西沙織)、セリナ(CV:涼本あきほ)",
+  "createdAt": "2026-02-06T08:46:06.813931Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LA LA RUN!",
+      "artist": "空崎ヒナ(CV:広橋涼)氷室セナ(CV:大西沙織)鷲見セリナ(CV:涼本あきほ)",
+      "has_synced": true,
+      "path": "select/01_LA_LA_RUN!_空崎ヒナ(CV_広橋涼)氷室セナ(CV_大西沙織)鷲見セリナ(CV_涼本あきほ).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LA LA RUN!",
+      "artist": "ヒナ(CV.広橋涼)、セナ(CV.大西沙織)、セリナ(CV.涼本あきほ)",
+      "has_synced": true,
+      "path": "select/02_LA_LA_RUN!_ヒナ(CV.広橋涼)、セナ(CV.大西沙織)、セリナ(CV.涼本あきほ).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LA LA RUN!",
+      "artist": "ヒナ",
+      "has_synced": true,
+      "path": "select/03_LA_LA_RUN!_ヒナ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LA LA RUN!",
+      "artist": "ヒナ(CV:広橋涼)、セナ(CV:大西沙織)、セリナ(CV:涼本あきほ)",
+      "has_synced": false,
+      "path": "select/pl_01_LA_LA_RUN!_ヒナ(CV_広橋涼)、セナ(CV_大西沙織)、セリナ(CV_涼本あきほ).txt"
+    }
+  ]
+}
